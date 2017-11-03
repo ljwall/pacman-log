@@ -5,6 +5,7 @@ bind-tools
 binutils
 bison
 bzip2
+clojure
 coreutils
 cronie
 cryptsetup
@@ -88,6 +89,7 @@ sysfsutils
 systemd
 systemd-sysvcompat
 tar
+tcpdump
 texinfo
 the_silver_searcher
 thunderbird
