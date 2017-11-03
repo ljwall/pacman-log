@@ -1,0 +1,13 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Operation = Remove
+Type = Package
+Target = *
+
+[Action]
+Description = "Update GitHub repository of installed package list"
+Depends = git
+Depends = gawk
+When = PostTransaction
+Exec = /root/pacman-log/update.sh
