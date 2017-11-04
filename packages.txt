@@ -111,6 +111,7 @@ wpa_supplicant
 xclip
 xcompmgr
 xf86-video-vesa
+xfce4-notifyd
 xfsprogs
 xmobar
 xmonad
