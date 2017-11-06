@@ -65,6 +65,7 @@ nodejs
 npm
 openssh
 pacman
+pass
 patch
 pavucontrol
 pciutils
