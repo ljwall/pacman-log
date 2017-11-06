@@ -24,6 +24,7 @@ filesystem
 findutils
 firefox
 firefox-beta-bin
+firefox-developer
 flex
 gawk
 gcc
