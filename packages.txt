@@ -13,6 +13,7 @@ device-mapper
 dhcpcd
 diffutils
 dillo
+dmenu
 dzen2
 e2fsprogs
 elasticsearch
