@@ -18,6 +18,7 @@ dzen2
 e2fsprogs
 elasticsearch
 elinks
+eslint
 fakeroot
 feh
 file
