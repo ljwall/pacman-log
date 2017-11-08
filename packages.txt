@@ -65,6 +65,8 @@ netctl
 nmap
 nodejs
 npm
+nvidia
+nvidia-utils
 openssh
 pacman
 pass
