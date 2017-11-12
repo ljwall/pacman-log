@@ -1,3 +1,5 @@
+acpi
+acpid
 autoconf
 automake
 bash
