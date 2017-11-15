@@ -25,7 +25,6 @@ feh
 file
 filesystem
 findutils
-firefox
 firefox-beta-bin
 firefox-developer
 flex
