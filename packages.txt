@@ -10,6 +10,7 @@ clojure
 coreutils
 cronie
 cryptsetup
+ctags
 device-mapper
 dhcpcd
 diffutils
