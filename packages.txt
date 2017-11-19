@@ -114,6 +114,7 @@ which
 whois
 wmctrl
 wpa_supplicant
+xbindkeys
 xclip
 xcompmgr
 xf86-video-vesa
