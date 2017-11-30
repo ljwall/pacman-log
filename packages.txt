@@ -62,6 +62,7 @@ man-db
 man-pages
 mdadm
 nano
+ncurses5-compat-libs
 netctl
 nmap
 nodejs
