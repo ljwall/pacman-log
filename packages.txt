@@ -1,6 +1,7 @@
 acpi
 autoconf
 automake
+aws-cli
 bash
 bind-tools
 binutils
