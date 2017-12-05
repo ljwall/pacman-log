@@ -91,10 +91,8 @@ rtmpdump
 s-nail
 sed
 shadow
-shellcheck
 slack-desktop
 spotify
-stack
 sudo
 sysfsutils
 systemd
