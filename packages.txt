@@ -91,6 +91,7 @@ rtmpdump
 s-nail
 sed
 shadow
+shellcheck
 slack-desktop
 spotify
 sudo
@@ -123,6 +124,8 @@ xf86-video-vesa
 xfce4-notifyd
 xfsprogs
 xfwm4
+xmobar
+xmonad
 xorg-bdftopcf
 xorg-docs
 xorg-font-util
