@@ -124,9 +124,6 @@ xcompmgr
 xf86-video-vesa
 xfce4-notifyd
 xfsprogs
-xmobar
-xmonad
-xmonad-contrib
 xmonad-utils
 xorg-bdftopcf
 xorg-docs
