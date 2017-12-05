@@ -124,7 +124,6 @@ xcompmgr
 xf86-video-vesa
 xfce4-notifyd
 xfsprogs
-xmonad-utils
 xorg-bdftopcf
 xorg-docs
 xorg-font-util
