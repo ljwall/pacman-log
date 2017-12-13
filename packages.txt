@@ -50,6 +50,7 @@ iproute2
 iputils
 iw
 jfsutils
+jq
 leiningen
 less
 libtool
