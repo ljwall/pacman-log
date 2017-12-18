@@ -28,7 +28,7 @@ file
 filesystem
 findutils
 firefox-beta-bin
-firefox-developer
+firefox-developer-edition
 fish
 flex
 gawk
