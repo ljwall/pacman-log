@@ -48,6 +48,7 @@ inetutils
 intel-ucode
 iproute2
 iputils
+irssi
 iw
 jfsutils
 jq
