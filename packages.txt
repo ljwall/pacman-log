@@ -185,4 +185,5 @@ xorg-xwininfo
 xorg-xwud
 xpdf
 xterm
+yarn
 zsh
