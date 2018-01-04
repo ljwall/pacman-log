@@ -1,6 +1,7 @@
 acpi
 autoconf
 automake
+awesome
 aws-cli
 bash
 bind-tools
