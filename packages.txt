@@ -70,6 +70,7 @@ mdadm
 nano
 ncurses5-compat-libs
 netctl
+nginx
 nmap
 nodejs
 npm
