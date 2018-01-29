@@ -53,6 +53,7 @@ irssi
 iw
 jfsutils
 jq
+kotlin
 leiningen
 less
 libtool
@@ -91,6 +92,7 @@ powertop
 procps-ng
 psmisc
 pulseaudio
+racket
 reiserfsprogs
 rofi
 rsync
