@@ -35,6 +35,7 @@ flex
 g2clib
 gawk
 gcc
+gcc-fortran
 gcc-libs
 gctpc
 gettext
