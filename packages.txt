@@ -36,6 +36,7 @@ g2clib
 gawk
 gcc
 gcc-libs
+gctpc
 gettext
 gimp
 git
