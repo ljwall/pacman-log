@@ -32,6 +32,7 @@ firefox-beta-bin
 firefox-developer-edition
 fish
 flex
+g2clib
 gawk
 gcc
 gcc-libs
