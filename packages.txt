@@ -28,7 +28,6 @@ feh
 file
 filesystem
 findutils
-firefox-beta-bin
 firefox-developer-edition
 fish
 flex
