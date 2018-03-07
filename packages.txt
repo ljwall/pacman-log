@@ -106,6 +106,7 @@ sed
 shadow
 shellcheck
 slack-desktop
+slock
 spotify
 stack
 sudo
