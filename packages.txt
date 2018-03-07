@@ -169,6 +169,7 @@ xorg-smproxy
 xorg-x11perf
 xorg-xauth
 xorg-xbacklight
+xorg-xclock
 xorg-xcmsdb
 xorg-xcursorgen
 xorg-xdpyinfo
