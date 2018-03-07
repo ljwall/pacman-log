@@ -197,4 +197,5 @@ xorg-xwud
 xpdf
 xterm
 yarn
+zip
 zsh
