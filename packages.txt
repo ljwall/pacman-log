@@ -133,6 +133,7 @@ which
 whois
 wmctrl
 wpa_supplicant
+xautolock
 xbindkeys
 xclip
 xcompmgr
