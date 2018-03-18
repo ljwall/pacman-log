@@ -1,4 +1,5 @@
 acpi
+aspell
 autoconf
 automake
 awesome
