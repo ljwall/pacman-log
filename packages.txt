@@ -10,6 +10,7 @@ bind-tools
 binutils
 bison
 bzip2
+cabal-install
 clojure
 coreutils
 cronie
