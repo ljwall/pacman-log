@@ -124,6 +124,7 @@ thunderbird
 tmux
 tpacpi-bat
 transset-df
+ttf-dejavu
 unzip
 usbutils
 util-linux
