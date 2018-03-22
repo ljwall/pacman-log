@@ -104,6 +104,7 @@ reiserfsprogs
 rofi
 rsync
 rtmpdump
+rxvt-unicode
 s-nail
 sed
 shadow
