@@ -50,6 +50,7 @@ groff
 gvim
 gzip
 haskell-hakyll
+hlint
 imagemagick
 inetutils
 intel-ucode
