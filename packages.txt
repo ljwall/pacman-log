@@ -25,6 +25,7 @@ dzen2
 e2fsprogs
 elasticsearch
 elinks
+emacs-nox
 eslint
 fakeroot
 feh
