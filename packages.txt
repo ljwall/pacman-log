@@ -80,6 +80,7 @@ mplayer
 nano
 ncurses5-compat-libs
 netctl
+newsboat
 nginx
 nmap
 nodejs
