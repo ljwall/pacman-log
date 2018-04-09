@@ -85,6 +85,7 @@ nginx
 nmap
 nodejs
 npm
+nss-mdns
 nvidia
 nvidia-utils
 openssh
