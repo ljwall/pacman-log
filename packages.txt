@@ -16,6 +16,7 @@ coreutils
 cronie
 cryptsetup
 ctags
+cups
 device-mapper
 dhcpcd
 diffutils
