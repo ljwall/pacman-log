@@ -65,6 +65,8 @@ jq
 kotlin
 leiningen
 less
+libreoffice-fresh
+libreoffice-fresh-en-gb
 libtool
 licenses
 linux
