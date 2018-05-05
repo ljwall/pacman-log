@@ -34,6 +34,7 @@ file
 filesystem
 findutils
 firefox-developer-edition
+firefox-developer-edition-i18n-en-gb
 fish
 flex
 g2clib
