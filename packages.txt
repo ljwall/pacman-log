@@ -33,7 +33,6 @@ feh
 file
 filesystem
 findutils
-firefox-developer-edition
 fish
 flex
 g2clib
