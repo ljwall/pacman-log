@@ -2,7 +2,7 @@
 
 cd /root/pacman-log || exit 1
 
-pacman -Qe | awk '{ print $1 }' > packages.txt
+pacman -Qqe > packages.txt
 
 if ! git diff-index --quiet HEAD packages.txt; then
 	git add packages.txt
