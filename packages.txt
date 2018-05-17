@@ -52,6 +52,7 @@ groff
 gvim
 gzip
 haskell-hakyll
+hindent
 hlint
 imagemagick
 inetutils
