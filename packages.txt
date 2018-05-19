@@ -91,8 +91,6 @@ nmap
 nodejs
 npm
 nss-mdns
-nvidia
-nvidia-utils
 openssh
 pacman
 pandoc
