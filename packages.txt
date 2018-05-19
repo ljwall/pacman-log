@@ -151,6 +151,7 @@ xautolock
 xbindkeys
 xclip
 xcompmgr
+xf86-video-nouveau
 xf86-video-vesa
 xfce4-notifyd
 xfsprogs
