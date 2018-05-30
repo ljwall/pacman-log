@@ -93,6 +93,7 @@ npm
 nss-mdns
 openssh
 pacman
+pacman-contrib
 pandoc
 pass
 patch
