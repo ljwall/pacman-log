@@ -102,7 +102,7 @@ pciutils
 pcmciautils
 perl
 php
-pkg-config
+pkgconf
 powertop
 procps-ng
 psmisc
