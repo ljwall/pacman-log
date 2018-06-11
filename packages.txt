@@ -66,6 +66,7 @@ jq
 kotlin
 leiningen
 less
+libpano13
 libpsl
 libreoffice-fresh
 libreoffice-fresh-en-gb
