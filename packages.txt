@@ -54,6 +54,7 @@ gzip
 haskell-hakyll
 hindent
 hlint
+hugin
 imagemagick
 inetutils
 intel-ucode
