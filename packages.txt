@@ -109,6 +109,7 @@ procps-ng
 psmisc
 pulseaudio
 python-pip
+python-virtualenv
 racket
 reiserfsprogs
 rofi
