@@ -108,6 +108,7 @@ powertop
 procps-ng
 psmisc
 pulseaudio
+python-pip
 racket
 reiserfsprogs
 rofi
