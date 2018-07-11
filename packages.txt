@@ -49,6 +49,7 @@ glibc
 google-chrome
 grep
 groff
+gv
 gvim
 gzip
 haskell-hakyll
