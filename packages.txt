@@ -22,6 +22,8 @@ dhcpcd
 diffutils
 dillo
 dmenu
+docker
+docker-compose
 dzen2
 e2fsprogs
 elasticsearch
