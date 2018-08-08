@@ -9,6 +9,7 @@ bash
 bind-tools
 binutils
 bison
+bower
 bzip2
 cabal-install
 clojure
