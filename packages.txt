@@ -85,6 +85,7 @@ make
 man-db
 man-pages
 mariadb
+masterpdfeditor
 mdadm
 mplayer
 nano
