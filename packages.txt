@@ -101,6 +101,7 @@ openssh
 pacman
 pacman-contrib
 pandoc
+parallel
 pass
 patch
 pavucontrol
