@@ -115,6 +115,7 @@ powertop
 procps-ng
 psmisc
 pulseaudio
+pulseaudio-alsa
 python-pip
 python-virtualenv
 racket
