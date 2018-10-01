@@ -224,6 +224,7 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+xpad
 xpdf
 xterm
 yarn
