@@ -1,6 +1,7 @@
 acpi
 aspell
 aspell-en
+audacity
 autoconf
 automake
 awesome
