@@ -153,6 +153,7 @@ util-linux
 vagrant
 vi
 virtualbox
+vorbis-tools
 wget
 wgrib2
 which
