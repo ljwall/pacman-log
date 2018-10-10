@@ -99,6 +99,7 @@ nodejs
 npm
 nss-mdns
 openssh
+openvpn
 pacman
 pacman-contrib
 pandoc
