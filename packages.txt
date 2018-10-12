@@ -119,6 +119,7 @@ pulseaudio
 pulseaudio-alsa
 python-pip
 python-virtualenv
+python2-pip
 racket
 reiserfsprogs
 rofi
