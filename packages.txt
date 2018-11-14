@@ -62,6 +62,7 @@ haskell-hakyll
 hindent
 hlint
 hugin
+iftop
 imagemagick
 inetutils
 intel-ucode
