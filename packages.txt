@@ -142,6 +142,8 @@ smartmontools
 spotify
 stack
 sudo
+swift
+swift-lldb
 sysfsutils
 systemd
 systemd-sysvcompat
