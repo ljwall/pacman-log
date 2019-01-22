@@ -15,6 +15,7 @@ bower
 bzip2
 cabal-install
 clojure
+composer
 coreutils
 cronie
 cryptsetup
