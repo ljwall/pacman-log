@@ -150,6 +150,7 @@ systemd
 systemd-sysvcompat
 tar
 tcpdump
+terraform
 texinfo
 the_silver_searcher
 thunderbird
