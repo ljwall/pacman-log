@@ -1,6 +1,7 @@
 acpi
 aspell
 aspell-en
+atom-editor-bin
 audacity
 autoconf
 automake
