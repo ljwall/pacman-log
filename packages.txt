@@ -35,6 +35,7 @@ e2fsprogs
 elasticsearch
 elinks
 emacs-nox
+emscripten
 eslint
 fakeroot
 feh
