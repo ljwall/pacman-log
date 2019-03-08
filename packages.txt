@@ -15,6 +15,7 @@ bmon
 bower
 bzip2
 cabal-install
+chromium
 clojure
 composer
 coreutils
