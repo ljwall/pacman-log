@@ -137,6 +137,7 @@ rsync
 rtmpdump
 rxvt-unicode
 s-nail
+screenfetch
 sed
 shadow
 shellcheck
