@@ -63,6 +63,7 @@ gv
 gvim
 gzip
 haskell-hakyll
+hdparm
 hindent
 hlint
 hugin
