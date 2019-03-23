@@ -159,6 +159,7 @@ terraform
 texinfo
 the_silver_searcher
 thunderbird
+tlp
 tmux
 tpacpi-bat
 transset-df
