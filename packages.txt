@@ -130,6 +130,7 @@ python-pip
 python-virtualenv
 python2-pip
 racket
+ranger
 rclone
 reiserfsprogs
 rofi
