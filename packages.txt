@@ -104,6 +104,7 @@ netctl
 newsboat
 nginx
 nmap
+nnn
 nodejs
 npm
 nss-mdns
