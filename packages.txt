@@ -24,6 +24,7 @@ ctags
 cups
 device-mapper
 dhcpcd
+dialog
 diffutils
 dillo
 dmenu
