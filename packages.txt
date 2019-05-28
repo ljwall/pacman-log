@@ -176,6 +176,7 @@ wget
 wgrib2
 which
 whois
+wifi-radar
 wmctrl
 wpa_supplicant
 xautolock
