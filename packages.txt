@@ -57,6 +57,7 @@ gettext
 gimp
 git
 glibc
+gnuplot
 google-chrome
 grep
 groff
