@@ -58,6 +58,7 @@ gimp
 git
 glibc
 gnuplot
+go
 google-chrome
 grep
 groff
