@@ -160,6 +160,7 @@ systemd
 systemd-sysvcompat
 tar
 tcpdump
+termite
 terraform
 texinfo
 the_silver_searcher
