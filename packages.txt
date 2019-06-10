@@ -1,6 +1,7 @@
 acpi
 arduino
 arduino-avr-core
+arduino-mk
 aspell
 aspell-en
 atom-editor-bin
