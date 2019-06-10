@@ -1,4 +1,5 @@
 acpi
+arduino
 arduino-avr-core
 aspell
 aspell-en
