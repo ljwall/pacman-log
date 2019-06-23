@@ -1,4 +1,5 @@
 acpi
+amsynth
 apache
 arduino
 arduino-avr-core
