@@ -158,6 +158,7 @@ smartmontools
 spotify
 stack
 sudo
+supercollider
 swift
 swift-lldb
 sysfsutils
