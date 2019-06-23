@@ -114,6 +114,7 @@ nginx
 nmap
 nnn
 nodejs
+non-sequencer
 npm
 nss-mdns
 openssh
