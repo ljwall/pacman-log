@@ -144,7 +144,6 @@ ranger
 rclone
 reiserfsprogs
 rofi
-rosegarden
 rsync
 rtmpdump
 rxvt-unicode
