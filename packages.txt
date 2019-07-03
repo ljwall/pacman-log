@@ -139,6 +139,7 @@ python-conda
 python-pip
 python-virtualenv
 python2-pip
+qspeakers
 racket
 ranger
 rclone
