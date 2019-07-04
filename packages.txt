@@ -121,6 +121,7 @@ openvpn
 pacman
 pacman-contrib
 pandoc
+panoply
 parallel
 pass
 patch
