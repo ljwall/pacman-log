@@ -194,6 +194,7 @@ wmctrl
 wpa_supplicant
 xautolock
 xbindkeys
+xcircuit
 xclip
 xcompmgr
 xf86-video-nouveau
