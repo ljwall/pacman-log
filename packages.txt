@@ -85,6 +85,7 @@ irssi
 iw
 jfsutils
 jq
+kicad
 kotlin
 leiningen
 less
