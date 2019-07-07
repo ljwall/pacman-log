@@ -86,6 +86,7 @@ iw
 jfsutils
 jq
 kicad
+kicad-library
 kotlin
 leiningen
 less
