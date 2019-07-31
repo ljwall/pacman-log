@@ -138,7 +138,6 @@ procps-ng
 psmisc
 pulseaudio
 pulseaudio-alsa
-pulseaudio-jack
 python-conda
 python-pip
 python-virtualenv
