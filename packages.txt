@@ -148,6 +148,7 @@ qutebrowser
 racket
 ranger
 rclone
+realtime-privileges
 reiserfsprogs
 rofi
 rsync
