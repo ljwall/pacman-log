@@ -52,6 +52,7 @@ findutils
 firefox-developer-edition
 fish
 flex
+fritzing
 g2clib
 gawk
 gcc
