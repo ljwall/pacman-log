@@ -140,6 +140,7 @@ psmisc
 pulseaudio
 pulseaudio-alsa
 python-conda
+python-conda-package-handling
 python-pip
 python-virtualenv
 python2-pip
