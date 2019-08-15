@@ -141,6 +141,7 @@ pulseaudio
 pulseaudio-alsa
 python-conda
 python-conda-package-handling
+python-libarchive-c
 python-pip
 python-virtualenv
 python2-pip
