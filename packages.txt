@@ -143,6 +143,7 @@ python-conda
 python-conda-package-handling
 python-libarchive-c
 python-pip
+python-tqdm
 python-virtualenv
 python2-pip
 qspeakers
