@@ -33,6 +33,7 @@ dhcpcd
 dialog
 diffutils
 dillo
+direnv
 dmenu
 docker
 docker-compose
