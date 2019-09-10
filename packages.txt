@@ -53,6 +53,7 @@ findutils
 firefox-developer-edition
 fish
 flex
+flyway
 fritzing
 g2clib
 gawk
