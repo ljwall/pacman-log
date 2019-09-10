@@ -135,6 +135,8 @@ pcmciautils
 perl
 php
 pkgconf
+postgis
+postgresql
 powertop
 procps-ng
 psmisc
