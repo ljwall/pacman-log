@@ -123,6 +123,7 @@ npm
 nss-mdns
 openssh
 openvpn
+p7zip
 pacman
 pacman-contrib
 pandoc
