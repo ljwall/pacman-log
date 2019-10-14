@@ -121,6 +121,7 @@ nnn
 nodejs
 npm
 nss-mdns
+nvm
 openssh
 openvpn
 p7zip
