@@ -169,6 +169,7 @@ shellcheck
 slack-desktop
 slock
 smartmontools
+spotify
 stack
 sudo
 supercollider
