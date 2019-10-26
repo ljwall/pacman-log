@@ -182,6 +182,7 @@ systemd-sysvcompat
 tar
 tcpdump
 texinfo
+texlive-core
 the_silver_searcher
 thunderbird
 tlp
