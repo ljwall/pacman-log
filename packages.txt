@@ -64,6 +64,7 @@ gctpc
 gettext
 gimp
 git
+git-lfs
 glibc
 gnuplot
 go
