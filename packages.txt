@@ -146,6 +146,7 @@ procps-ng
 psmisc
 pulseaudio
 pulseaudio-alsa
+python-cairo
 python-libarchive-c
 python-pip
 python-pyaml
