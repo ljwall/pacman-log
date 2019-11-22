@@ -171,7 +171,6 @@ shellcheck
 slack-desktop
 slock
 smartmontools
-solfege
 spotify
 stack
 sudo
