@@ -141,6 +141,7 @@ php
 pkgconf
 postgis
 postgresql
+postgresql-old-upgrade
 powertop
 procps-ng
 psmisc
