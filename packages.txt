@@ -193,6 +193,7 @@ tpacpi-bat
 transset-df
 ttf-dejavu
 ttf-inconsolata
+typescript
 unzip
 usbutils
 util-linux
