@@ -279,5 +279,6 @@ xorg-xwud
 xpdf
 xterm
 yarn
+yq
 zip
 zsh
