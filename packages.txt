@@ -53,6 +53,7 @@ findutils
 firefox-developer-edition
 fish
 flex
+fluidsynth
 flyway
 fritzing
 g2clib
