@@ -187,7 +187,6 @@ texinfo
 texlive-core
 the_silver_searcher
 thunderbird
-timidity++
 tlp
 tmux
 tpacpi-bat
