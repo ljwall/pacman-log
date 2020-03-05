@@ -173,6 +173,7 @@ shellcheck
 slack-desktop
 slock
 smartmontools
+soundfont-fluid
 spotify
 stack
 sudo
@@ -219,6 +220,7 @@ xf86-video-vesa
 xfce4-notifyd
 xfsprogs
 xfwm4
+xl2tpd
 xmobar
 xmonad
 xmonad-contrib
