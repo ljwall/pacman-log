@@ -75,6 +75,7 @@ gv
 gvim
 gzip
 hdparm
+hlint
 hugin
 iftop
 imagemagick
@@ -164,11 +165,13 @@ s-nail
 screenfetch
 sed
 shadow
+shellcheck
 slack-desktop
 slock
 smartmontools
 soundfont-fluid
 spotify
+stack
 sudo
 supercollider
 swift
