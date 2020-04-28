@@ -223,9 +223,6 @@ xfsprogs
 xfwm4
 xl2tpd
 xmobar
-xmonad
-xmonad-contrib
-xmonad-utils
 xorg-bdftopcf
 xorg-docs
 xorg-font-util
