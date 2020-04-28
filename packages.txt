@@ -222,7 +222,6 @@ xfce4-notifyd
 xfsprogs
 xfwm4
 xl2tpd
-xmobar
 xorg-bdftopcf
 xorg-docs
 xorg-font-util
