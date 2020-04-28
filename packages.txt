@@ -75,7 +75,6 @@ gv
 gvim
 gzip
 hdparm
-hindent
 hugin
 iftop
 imagemagick
@@ -170,7 +169,6 @@ slock
 smartmontools
 soundfont-fluid
 spotify
-stack
 sudo
 supercollider
 swift
