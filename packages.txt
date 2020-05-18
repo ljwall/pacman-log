@@ -158,6 +158,7 @@ rclone
 realtime-privileges
 reiserfsprogs
 rofi
+rosegarden
 rsync
 rtmpdump
 rxvt-unicode
