@@ -66,6 +66,7 @@ gimp
 git
 git-lfs
 glibc
+gnu-netcat
 gnuplot
 go
 google-chrome
