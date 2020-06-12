@@ -110,6 +110,7 @@ man-pages
 mariadb
 masterpdfeditor
 mdadm
+moc
 mplayer
 nano
 ncurses5-compat-libs
