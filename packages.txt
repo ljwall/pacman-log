@@ -20,6 +20,7 @@ bmon
 bzip2
 chromium
 clojure
+cmus
 code
 composer
 coreutils
