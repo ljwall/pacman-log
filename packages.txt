@@ -206,6 +206,7 @@ wgrib2
 which
 whois
 wifi-radar
+wine
 wmctrl
 wpa_supplicant
 xautolock
