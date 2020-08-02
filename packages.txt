@@ -24,6 +24,7 @@ cmus
 code
 composer
 coreutils
+cowsay
 cronie
 cryptsetup
 ctags
