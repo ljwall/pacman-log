@@ -55,6 +55,7 @@ filesystem
 findutils
 firefox-developer-edition
 fish
+flameshot
 flex
 fluidsynth
 flyway
