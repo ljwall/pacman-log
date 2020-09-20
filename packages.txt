@@ -198,6 +198,7 @@ transset-df
 ttf-dejavu
 ttf-inconsolata
 typescript
+unrar
 unzip
 usbutils
 util-linux
