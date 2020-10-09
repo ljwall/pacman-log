@@ -1,4 +1,5 @@
 acpi
+alsa-utils
 amsynth
 apache
 arduino
