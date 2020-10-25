@@ -108,6 +108,7 @@ licenses
 linux
 logrotate
 lsof
+luit
 lvm2
 m4
 make
@@ -238,7 +239,6 @@ xorg-fonts-100dpi
 xorg-fonts-75dpi
 xorg-fonts-encodings
 xorg-iceauth
-xorg-luit
 xorg-mkfontscale
 xorg-server
 xorg-server-common
