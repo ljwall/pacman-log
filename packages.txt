@@ -20,6 +20,7 @@ binutils
 bison
 bmon
 bzip2
+cabal-install
 chromium
 clojure
 cmus
