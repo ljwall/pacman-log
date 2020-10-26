@@ -73,6 +73,7 @@ gimp
 git
 git-lfs
 glibc
+gnome-keyring
 gnu-netcat
 gnuplot
 go
