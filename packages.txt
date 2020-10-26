@@ -105,6 +105,7 @@ libpsl
 libreoffice-fresh
 libreoffice-fresh-en-gb
 libtool
+liburcu
 licenses
 linux
 logrotate
