@@ -19,6 +19,7 @@ bind
 binutils
 bison
 bmon
+bower
 bzip2
 cabal-install
 chromium
