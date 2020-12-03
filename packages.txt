@@ -212,6 +212,7 @@ vagrant
 vi
 virtualbox
 vorbis-tools
+watchman
 wget
 wgrib2
 which
