@@ -45,7 +45,6 @@ docker-compose
 dstat
 dzen2
 e2fsprogs
-elasticsearch
 elinks
 emacs-nox
 emscripten
