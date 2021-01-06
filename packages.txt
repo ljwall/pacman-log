@@ -144,6 +144,7 @@ patch
 pavucontrol
 pciutils
 pcmciautils
+pd
 perl
 php
 pkgconf
