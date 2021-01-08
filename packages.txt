@@ -96,6 +96,7 @@ irssi
 iw
 jfsutils
 jq
+jre-openjdk
 kicad
 kicad-library
 kotlin
