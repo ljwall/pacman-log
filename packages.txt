@@ -104,6 +104,7 @@ kotlin
 leiningen
 less
 libblocksruntime
+libopencm3
 libpsl
 libreoffice-fresh
 libreoffice-fresh-en-gb
