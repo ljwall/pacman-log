@@ -5,6 +5,7 @@ apache
 arduino
 arduino-avr-core
 arduino-mk
+arm-none-eabi-gcc
 aspell
 aspell-en
 atom-editor-bin
@@ -184,6 +185,7 @@ smartmontools
 soundfont-fluid
 spotify
 stack
+stlink
 sudo
 supercollider
 swift
