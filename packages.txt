@@ -2,9 +2,6 @@ acpi
 alsa-utils
 amsynth
 apache
-arduino
-arduino-avr-core
-arduino-mk
 arm-none-eabi-gcc
 aspell
 aspell-en
