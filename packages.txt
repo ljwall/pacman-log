@@ -293,6 +293,7 @@ xorg-xwud
 xpdf
 xterm
 yarn
+youtube-dl
 yq
 zip
 zoom
