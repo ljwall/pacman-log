@@ -193,7 +193,6 @@ systemd
 systemd-sysvcompat
 tar
 tcpdump
-teensy-loader-cli
 texinfo
 texlive-core
 the_silver_searcher
