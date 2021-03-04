@@ -232,6 +232,7 @@ xf86-video-vesa
 xfce4-notifyd
 xfsprogs
 xfwm4
+xine-ui
 xl2tpd
 xmobar
 xmonad
