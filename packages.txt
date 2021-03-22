@@ -192,6 +192,7 @@ systemd
 systemd-sysvcompat
 tar
 tcpdump
+teams
 texinfo
 texlive-core
 the_silver_searcher
