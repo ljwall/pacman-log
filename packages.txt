@@ -292,5 +292,4 @@ yarn
 youtube-dl
 yq
 zip
-zoom
 zsh
