@@ -43,7 +43,6 @@ dzen2
 e2fsprogs
 elinks
 emacs-nox
-emscripten
 eslint
 fakeroot
 fd
