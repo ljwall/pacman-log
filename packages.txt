@@ -177,7 +177,6 @@ shellcheck
 slack-desktop
 slock
 smartmontools
-soundfont-fluid
 spotify
 stack
 stlink
