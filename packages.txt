@@ -161,7 +161,6 @@ python-virtualenv
 python2-pip
 qspeakers
 qutebrowser
-racket
 ranger
 rclone
 realtime-privileges
