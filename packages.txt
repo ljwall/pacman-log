@@ -66,6 +66,7 @@ gettext
 gimp
 git
 git-lfs
+github-cli
 glibc
 gnome-keyring
 gnu-netcat
