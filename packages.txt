@@ -1,11 +1,9 @@
 acpi
 alsa-utils
-amsynth
 apache
 arm-none-eabi-gcc
 aspell
 aspell-en
-audacity
 autoconf
 automake
 awesome
@@ -54,7 +52,6 @@ firefox-developer-edition
 fish
 flameshot
 flex
-fluidsynth
 flyway
 g2clib
 gawk
@@ -92,9 +89,6 @@ iw
 jfsutils
 jq
 jre-openjdk
-kicad
-kicad-library
-kotlin
 leiningen
 less
 libblocksruntime
@@ -140,7 +134,6 @@ patch
 pavucontrol
 pciutils
 pcmciautils
-pd
 perl
 php
 pkgconf
@@ -180,9 +173,6 @@ spotify
 stack
 stlink
 sudo
-supercollider
-swift
-swift-lldb
 sysfsutils
 systemd
 systemd-sysvcompat
@@ -192,7 +182,6 @@ teams
 texinfo
 texlive-core
 the_silver_searcher
-thunderbird
 tlp
 tmux
 tpacpi-bat
