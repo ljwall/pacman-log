@@ -203,8 +203,6 @@ wgrib2
 which
 whois
 wifi-radar
-wine
-wine-gecko
 wmctrl
 wpa_supplicant
 xautolock
