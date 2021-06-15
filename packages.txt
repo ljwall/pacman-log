@@ -92,7 +92,6 @@ jre-openjdk
 leiningen
 less
 libblocksruntime
-libdap
 libpsl
 libreoffice-fresh
 libreoffice-fresh-en-gb
