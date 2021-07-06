@@ -182,6 +182,7 @@ teams
 texinfo
 texlive-core
 the_silver_searcher
+tldr
 tlp
 tmux
 tpacpi-bat
